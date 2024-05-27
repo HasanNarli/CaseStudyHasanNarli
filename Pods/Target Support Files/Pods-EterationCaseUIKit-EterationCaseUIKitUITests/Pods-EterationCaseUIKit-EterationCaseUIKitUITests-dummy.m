@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_EterationCaseUIKit_EterationCaseUIKitUITests : NSObject
+@end
+@implementation PodsDummy_Pods_EterationCaseUIKit_EterationCaseUIKitUITests
+@end

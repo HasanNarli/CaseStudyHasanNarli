@@ -1,0 +1,6 @@
+framework module Pods_EterationCaseUIKit {
+  umbrella header "Pods-EterationCaseUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

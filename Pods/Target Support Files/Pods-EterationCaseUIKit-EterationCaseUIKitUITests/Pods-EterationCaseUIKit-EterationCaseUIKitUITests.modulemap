@@ -1,0 +1,6 @@
+framework module Pods_EterationCaseUIKit_EterationCaseUIKitUITests {
+  umbrella header "Pods-EterationCaseUIKit-EterationCaseUIKitUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
